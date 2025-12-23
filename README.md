@@ -7,3 +7,7 @@ Project-UAS-kelompok-7-RIVERR
   
 * Replika Database:
   https://youtu.be/NWVdIVxm9ns?si=xfEKeCBCDdNzXg7a
+
+* Database:
+  https://youtu.be/6N1Hc4a2oMc?si=v9yDIk6sVnAsvZHu
+
