@@ -11,3 +11,6 @@ Project-UAS-kelompok-7-RIVERR
 * Database:
   https://youtu.be/6N1Hc4a2oMc?si=v9yDIk6sVnAsvZHu
 
+* ERD:
+  https://drive.google.com/file/d/1FTE5dgr9C1EVBD9HRgfg0JRXLsUGl3TJ/view?usp=drivesdk
+
